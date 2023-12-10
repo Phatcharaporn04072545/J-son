@@ -1,0 +1,121 @@
+{
+    "items_main":[
+        {"ID":"001","name":"logo-001","TH":"คำพูด","EN":"Logo","IMG":"01.png","next_page":"items_talk"},
+        {"ID":"002","name":"logo-002","TH":"กิน","EN":"Logo","IMG":"02.png","next_page":"items_eat"},
+        {"ID":"003","name":"logo-003","TH":"คาวมรู้สึก","EN":"Logo","IMG":"03.png","next_page":"items_feeling"},
+        {"ID":"004","name":"logo-004","TH":"ของใช้","EN":"Logo","IMG":"04.jpg","next_page":"items_items"},
+        {"ID":"005","name":"logo-005","TH":"งานอดิเรก","EN":"Logo","IMG":"05.png","next_page":"items_hobby"},
+        {"ID":"006","name":"logo-006","TH":"บุคคล","EN":"Logo","IMG":"06.png","next_page":"items_people"}
+    ],
+    "items_talk": [
+        {"ID":"001","name":"logo-001","TH":"สวัสดี","EN":"Logo","IMG":"103.jpg","next_page":""},
+        {"ID":"002","name":"logo-002","TH":"ลาก่อน","EN":"Logo","IMG":"96.png","next_page":""},
+        {"ID":"003","name":"logo-003","TH":"ขอบคุณ","EN":"Logo","IMG":"25.png","next_page":""},
+        {"ID":"004","name":"logo-004","TH":"ใช่","EN":"Logo","IMG":"47.png","next_page":""},
+        {"ID":"005","name":"logo-005","TH":"ไม่ใช่","EN":"Logo","IMG":"89.png","next_page":""},
+        {"ID":"006","name":"logo-006","TH":"ไม่เข้าใจ","EN":"Logo","IMG":"88.png","next_page":""},
+        {"ID":"007","name":"logo-007","TH":"เข้าใจ","EN":"Logo","IMG":"36.png","next_page":""},
+        {"ID":"008","name":"logo-008","TH":"กี่โมงแล้ว","EN":"Logo","IMG":"15.png","next_page":""},
+        {"ID":"009","name":"logo-009","TH":"วันนี้วันอะไร","EN":"Logo","IMG":"98.png","next_page":""},
+        {"ID":"010","name":"logo-010","TH":"พูดดังหน่อย","EN":"Logo","IMG":"82.png","next_page":""}
+    ],
+    "items_eat": [
+        {"ID":"001","name":"logo-001","TH":"อาหารหลัก","EN":"Logo","IMG":"112.jpeg","next_page":"items_eat_main"},
+        {"ID":"002","name":"logo-002","TH":"ขนมหวาน","EN":"Logo","IMG":"24.jpeg","next_page":"items_eat_snak"},
+        {"ID":"003","name":"logo-003","TH":"เครื่องดื่ม","EN":"Logo","IMG":"40.jpeg","next_page":"items_eat_drink"},
+        {"ID":"004","name":"logo-004","TH":"ผัก","EN":"Logo","IMG":"75.jpeg","next_page":"items_veg"},
+        {"ID":"005","name":"logo-005","TH":"ยา","EN":"Logo","IMG":"91.jpeg","next_page":""}
+    ],
+    "items_eat_main": [
+        {"ID":"001","name":"logo-001","TH":"ทอด","EN":"Logo","IMG":"57.jpeg","next_page":"items_eat_meet"},
+        {"ID":"002","name":"logo-002","TH":"ต้ม","EN":"Logo","IMG":"51.jpeg","next_page":"items_eat_meet"},
+        {"ID":"003","name":"logo-003","TH":"นึ่ง","EN":"Logo","IMG":"64.jpeg","next_page":"items_eat_meet"},
+        {"ID":"004","name":"logo-004","TH":"ผัด","EN":"Logo","IMG":"77.jpeg","next_page":"items_eat_meet"},
+        {"ID":"005","name":"logo-005","TH":"ย่าง","EN":"Logo","IMG":"92.jpeg","next_page":"items_eat_meet"},
+        {"ID":"006","name":"logo-006","TH":"อาหารจานเดียว","EN":"Logo","IMG":"114.jpg","next_page":"items_eat_JD"}
+    ],
+    "items_eat_meet": [
+        {"ID":"001","name":"logo-001","TH":"กุ้ง","EN":"Logo","IMG":"16.jpeg","next_page":""},
+        {"ID":"002","name":"logo-002","TH":"ปลา","EN":"Logo","IMG":"70.jpeg","next_page":""},
+        {"ID":"003","name":"logo-003","TH":"หมึก","EN":"Logo","IMG":"71.jpeg","next_page":""},
+        {"ID":"004","name":"logo-004","TH":"ไก่","EN":"Logo","IMG":"19.jpeg","next_page":""},
+        {"ID":"005","name":"logo-005","TH":"หมู","EN":"Logo","IMG":"107.jpeg","next_page":""},
+        {"ID":"006","name":"logo-006","TH":"เนื้อวัว","EN":"Logo","IMG":"65.jpeg","next_page":""},
+        {"ID":"007","name":"logo-007","TH":"หอย","EN":"Logo","IMG":"109.jpeg","next_page":""},
+        {"ID":"008","name":"logo-008","TH":"ปู","EN":"Logo","IMG":"74.jpeg","next_page":""}
+    ],
+    "items_eat_JD": [
+        {"ID":"001","name":"logo-001","TH":"กุ้ง","EN":"Logo","IMG":"16.jpeg","next_page":""},
+        {"ID":"002","name":"logo-002","TH":"ปลา","EN":"Logo","IMG":"70.jpeg","next_page":""},
+        {"ID":"003","name":"logo-003","TH":"หมึก","EN":"Logo","IMG":"71.jpeg","next_page":""},
+        {"ID":"004","name":"logo-004","TH":"ไก่","EN":"Logo","IMG":"19.jpeg","next_page":""},
+        {"ID":"005","name":"logo-005","TH":"หมู","EN":"Logo","IMG":"107.jpeg","next_page":""},
+        {"ID":"006","name":"logo-006","TH":"เนื้อวัว","EN":"Logo","IMG":"65.jpeg","next_page":""},
+        {"ID":"007","name":"logo-007","TH":"หอย","EN":"Logo","IMG":"109.jpeg","next_page":""},
+        {"ID":"008","name":"logo-008","TH":"ปู","EN":"Logo","IMG":"74.jpeg","next_page":""}
+    ],
+    "items_eat_snak": [
+        {"ID":"001","name":"logo-001","TH":"1","EN":"Logo","IMG":"112.jpeg","next_page":"อาหารหลัก"},
+        {"ID":"001","name":"logo-001","TH":"2","EN":"Logo","IMG":"24.jpeg","next_page":"ขนมหวาน"},
+        {"ID":"001","name":"logo-001","TH":"3","EN":"Logo","IMG":"40.jpeg","next_page":"เครื่องดื่ม"},
+        {"ID":"001","name":"logo-001","TH":"4","EN":"Logo","IMG":"75.jpeg","next_page":"ผัก"},
+        {"ID":"001","name":"logo-001","TH":"5","EN":"Logo","IMG":"91.jpeg","next_page":"ยา"}
+    ],
+    "items_eat_drink": [
+        {"ID":"001","name":"logo-001","TH":"1","EN":"Logo","IMG":"112.jpeg","next_page":"อาหารหลัก"},
+        {"ID":"001","name":"logo-001","TH":"2","EN":"Logo","IMG":"24.jpeg","next_page":"ขนมหวาน"},
+        {"ID":"001","name":"logo-001","TH":"3","EN":"Logo","IMG":"40.jpeg","next_page":"เครื่องดื่ม"},
+        {"ID":"001","name":"logo-001","TH":"4","EN":"Logo","IMG":"75.jpeg","next_page":"ผัก"},
+        {"ID":"001","name":"logo-001","TH":"5","EN":"Logo","IMG":"91.jpeg","next_page":"ยา"}
+    ],
+    "items_eat_veg": [
+        {"ID":"001","name":"logo-001","TH":"1","EN":"Logo","IMG":"112.jpeg","next_page":"อาหารหลัก"},
+        {"ID":"001","name":"logo-001","TH":"2","EN":"Logo","IMG":"24.jpeg","next_page":"ขนมหวาน"},
+        {"ID":"001","name":"logo-001","TH":"3","EN":"Logo","IMG":"40.jpeg","next_page":"เครื่องดื่ม"},
+        {"ID":"001","name":"logo-001","TH":"4","EN":"Logo","IMG":"75.jpeg","next_page":"ผัก"},
+        {"ID":"001","name":"logo-001","TH":"5","EN":"Logo","IMG":"91.jpeg","next_page":"ยา"}
+    ],
+    "items_feeling": [
+        {"ID":"001","name":"logo-001","TH":"โกรธ","EN":"Logo","IMG":"18.png","next_page":""},
+        {"ID":"002","name":"logo-002","TH":"ง่วง","EN":"Logo","IMG":"42.png","next_page":""},
+        {"ID":"003","name":"logo-003","TH":"คัน","EN":"Logo","IMG":"37.png","next_page":""},
+        {"ID":"004","name":"logo-004","TH":"กลัว","EN":"Logo","IMG":"09.png","next_page":""},
+        {"ID":"005","name":"logo-005","TH":"เศร้า","EN":"Logo","IMG":"101.png","next_page":""},
+        {"ID":"006","name":"logo-006","TH":"มีความสุข","EN":"Logo","IMG":"87.png","next_page":""},
+        {"ID":"007","name":"logo-007","TH":"หนาว","EN":"Logo","IMG":"106.png","next_page":""},
+        {"ID":"008","name":"logo-008","TH":"ร้อน","EN":"Logo","IMG":"93.png","next_page":""},
+        {"ID":"009","name":"logo-009","TH":"เครียด","EN":"Logo","IMG":"39.png","next_page":""},
+        {"ID":"010","name":"logo-010","TH":"เบื่อ","EN":"Logo","IMG":"69.png","next_page":""},
+        {"ID":"011","name":"logo-011","TH":"ตกใจ","EN":"Logo","IMG":"50.png","next_page":""},
+        {"ID":"012","name":"logo-012","TH":"ปวด","EN":"Logo","IMG":"72.png","next_page":""},
+        {"ID":"013","name":"logo-013","TH":"หิว","EN":"Logo","IMG":"110.png","next_page":""}
+    ],
+    "items_items": [
+        {"ID":"001","name":"logo-001","TH":"ทีวี","EN":"Logo","IMG":"59.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"จาน","EN":"Logo","IMG":"43.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ช้อน","EN":"Logo","IMG":"45.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ถ้วย","EN":"Logo","IMG":"55.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"พัดลม","EN":"Logo","IMG":"81.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ไม้เท้า","EN":"Logo","IMG":"90.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"สวิตไฟ","EN":"Logo","IMG":"104.jpeg","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ส้อม","EN":"Logo","IMG":"105.jpeg","next_page":""}
+    ],
+    "items_hobby": [
+        {"ID":"001","name":"logo-001","TH":"เดินเล่น","EN":"Logo","IMG":"49.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"วิ่ง","EN":"Logo","IMG":"100.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ปั่นจักรยาน","EN":"Logo","IMG":"73.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ดูหนัง","EN":"Logo","IMG":"48.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"ฟังเพลง","EN":"Logo","IMG":"84.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"อ่านหนังสือ","EN":"Logo","IMG":"111.png","next_page":""},
+        {"ID":"001","name":"logo-001","TH":"วาดรูป","EN":"Logo","IMG":"99.png","next_page":""}
+    ],
+    "items_people": [
+        {"ID":"001","name":"logo-001","TH":"เดินเล่น","EN":"Logo","IMG":"49.png"},
+        {"ID":"001","name":"logo-001","TH":"วิ่ง","EN":"Logo","IMG":"100.png"},
+        {"ID":"001","name":"logo-001","TH":"ปั่นจักรยาน","EN":"Logo","IMG":"73.png"},
+        {"ID":"001","name":"logo-001","TH":"ดูหนัง","EN":"Logo","IMG":"48.png"},
+        {"ID":"001","name":"logo-001","TH":"ฟังเพลง","EN":"Logo","IMG":"84.png"},
+        {"ID":"001","name":"logo-001","TH":"อ่านหนังสือ","EN":"Logo","IMG":"111.png"},
+        {"ID":"001","name":"logo-001","TH":"วาดรูป","EN":"Logo","IMG":"99.png"}
+    ]
+}

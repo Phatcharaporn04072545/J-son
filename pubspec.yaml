@@ -1,0 +1,29 @@
+name: json
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.5
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  provider: ^6.1.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - images/
+   - json_file/
